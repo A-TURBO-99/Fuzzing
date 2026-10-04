@@ -1,2 +1,0 @@
-/log/production.log
-/config/app_env.yml
